@@ -401,7 +401,7 @@ Profile Section Layout
    PROJECT SECTION LAYOUT
 ============================= */
 .project {
-  min-height: 3300px;
+  min-height: 2900px;
   background: linear-gradient(#F2E4CB, #E8E5E0 50%, #F2E4CB);
   padding-top: 10vh;
 }
@@ -419,7 +419,7 @@ Profile Section Layout
 .project .inner .con {
   position: relative;
   width: 100%;
-  min-height: 3000px;
+  min-height: 2900px;
 }
 
 .project .inner .con h2 {
@@ -457,7 +457,7 @@ Profile Section Layout
 }
 .project .inner .con ul li:nth-child(3) {
   position: absolute;
-  top: 120vh;
+  top: 130vh;
   left: -3vw;
 }
 .project .inner .con ul li:nth-child(3) img:nth-of-type(2) {
