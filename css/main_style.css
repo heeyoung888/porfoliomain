@@ -401,7 +401,7 @@ Profile Section Layout
    PROJECT SECTION LAYOUT
 ============================= */
 .project {
-  min-height: 2700px;
+  min-height: 2600px;
   background: linear-gradient(#F2E4CB, #E8E5E0 50%, #F2E4CB);
   padding-top: 10vh;
 }
